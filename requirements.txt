@@ -1,6 +1,4 @@
 flask
 flask_ngrok
-sqlalchemy.orm
 sqlalchemy
-sqlalchemy.ext.declarative
 datetime
